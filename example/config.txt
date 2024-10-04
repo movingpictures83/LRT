@@ -1,0 +1,2 @@
+Prefix plugins/LRT/example/
+Plugin LRT inputfile parameters.txt outputfile .

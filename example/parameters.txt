@@ -1,0 +1,3 @@
+group1	Kidney/kidneyChr21.bed.txt
+group2	Liver/liverChr21.bed.txt
+reference	refFlatChr21.txt
